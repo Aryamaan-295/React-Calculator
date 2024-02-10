@@ -20,6 +20,7 @@ body {
     border: 1px solid white;
     outline: none;
     background-color: rgba(255, 255, 255, 0.75);
+    cursor: pointer;
 }
 
 .calculator-grid > button:hover,
